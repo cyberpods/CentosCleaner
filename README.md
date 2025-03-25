@@ -26,4 +26,4 @@ A robust Bash script for cleaning and maintaining Linux systems, particularly RH
 
 ```bash
 curl -O https://raw.githubusercontent.com/cyberpods/CentosCleaner/refs/heads/main/cleanup.sh
-chmod +x system_cleanup.sh
+chmod +x cleanup.sh
